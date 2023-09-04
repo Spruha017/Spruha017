@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Rest api**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Flutter project**
 
